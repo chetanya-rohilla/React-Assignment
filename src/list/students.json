@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Chetanya",
+        "age" : 23,
+        "gender" : "Male"
+    },
+    {
+        "name": "Arman",
+        "age" : 22,
+        "gender" : "Male"
+    },
+    {
+        "name": "Shivani",
+        "age" : 22,
+        "gender" : "Female"
+    },
+    {
+        "name": "Saswath",
+        "age" : 21,
+        "gender" : "Male"
+    },
+    {
+        "name": "Rajat",
+        "age" : 24,
+        "gender" : "Male"
+    },
+    {
+        "name": "Yash",
+        "age" : 25,
+        "gender" : "Male"
+    }
+]
